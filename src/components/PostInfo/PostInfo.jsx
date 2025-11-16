@@ -28,7 +28,7 @@ function Comments({ comments }) {
   return (
     <>
       <hr />
-      <b data-cy="NoCommentsMessage">No comments yet</b>;
+      <b data-cy="NoCommentsMessage">No comments yet</b>
     </>
   );
 }
